@@ -1,0 +1,5 @@
+- Calculate Key Performance Indicator-KPIs (networth, income, savings, expense %)
+- net worth across the years, timeline selection
+- monthly breakdown of expense(s) & saving(s), interactive report
+- expense % and saving % with change in income month-on-month(MoM%)
+- Track of Loan & monthly emi.
